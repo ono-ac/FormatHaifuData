@@ -12,7 +12,7 @@ python3 reformat_haifudata.py --filepath "test/sample_haifudata.xml" --savedir "
 ```
 ### 出力
 jsonl形式の牌譜データ.  
-[sample_output.json](test/created_haifudata.jsonl)
+[sample_output.json](test/created_haifudata.json)
 
 ### 詳細
 --detailで詳細な牌譜経過をコマンドラインに表示
