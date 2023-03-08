@@ -5,14 +5,14 @@
 ## Usage
 ### 変換元データ
 天鳳牌譜ビューアβ形式のIFRAME記述.  
-[sample_haifudata.xml](FormatHaifuData/test/sample_haifudata.xml)
+[sample_haifudata.xml](test/sample_haifudata.xml)
 ### 実行
 ```
 python3 reformat_haifudata.py --filepath "test/sample_haifudata.xml" --savedir "test" --detail
 ```
 ### 出力
 jsonl形式の牌譜データ.  
-[sample_output.json](FormatHaifuData/test/created_haifudata.jsonl)
+[sample_output.json](test/created_haifudata.jsonl)
 
 ### 詳細
 "--detail"で詳細な牌譜経過をコマンドラインに表示
