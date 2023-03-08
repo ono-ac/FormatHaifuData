@@ -1,0 +1,145 @@
+{"num": 0, "playernum": 0, "playername": "黒沢", "hainum": 0, "action": "start", "hand": []}
+{"num": 1, "playernum": 0, "playername": "黒沢", "hainum": 46, "action": "tumo", "hand": [13, 16, 19, 21, 24, 27, 27, 31, 37, 38, 39, 41, 42, 46]}
+{"num": 2, "playernum": 0, "playername": "黒沢", "hainum": 46, "action": "dahai_tumogiri", "hand": [13, 16, 19, 21, 24, 27, 27, 31, 37, 38, 39, 41, 42]}
+{"num": 3, "playernum": 1, "playername": "丸山", "hainum": 28, "action": "tumo", "hand": [13, 15, 17, 21, 28, 29, 33, 34, 38, 39, 43, 44, 46, 46]}
+{"num": 4, "playernum": 1, "playername": "丸山", "hainum": 21, "action": "dahai", "hand": [13, 15, 17, 28, 29, 33, 34, 38, 39, 43, 44, 46, 46]}
+{"num": 5, "playernum": 2, "playername": "多井", "hainum": 25, "action": "tumo", "hand": [11, 12, 17, 19, 23, 23, 25, 26, 28, 29, 31, 33, 36, 36]}
+{"num": 6, "playernum": 2, "playername": "多井", "hainum": 29, "action": "dahai", "hand": [11, 12, 17, 19, 23, 23, 25, 26, 28, 31, 33, 36, 36]}
+{"num": 7, "playernum": 3, "playername": "沢崎", "hainum": 37, "action": "tumo", "hand": [11, 13, 13, 15, 22, 23, 25, 28, 34, 37, 41, 47, 47, 52]}
+{"num": 8, "playernum": 3, "playername": "沢崎", "hainum": 41, "action": "dahai", "hand": [11, 13, 13, 15, 22, 23, 25, 28, 34, 37, 47, 47, 52]}
+{"num": 9, "playernum": 0, "playername": "黒沢", "hainum": 39, "action": "tumo", "hand": [13, 16, 19, 21, 24, 27, 27, 31, 37, 38, 39, 39, 41, 42]}
+{"num": 10, "playernum": 0, "playername": "黒沢", "hainum": 41, "action": "dahai", "hand": [13, 16, 19, 21, 24, 27, 27, 31, 37, 38, 39, 39, 42]}
+{"num": 11, "playernum": 1, "playername": "丸山", "hainum": 32, "action": "tumo", "hand": [13, 15, 17, 28, 29, 32, 33, 34, 38, 39, 43, 44, 46, 46]}
+{"num": 12, "playernum": 1, "playername": "丸山", "hainum": 44, "action": "dahai", "hand": [13, 15, 17, 28, 29, 32, 33, 34, 38, 39, 43, 46, 46]}
+{"num": 13, "playernum": 2, "playername": "多井", "hainum": 14, "action": "tumo", "hand": [11, 12, 14, 17, 19, 23, 23, 25, 26, 28, 31, 33, 36, 36]}
+{"num": 14, "playernum": 2, "playername": "多井", "hainum": 28, "action": "dahai", "hand": [11, 12, 14, 17, 19, 23, 23, 25, 26, 31, 33, 36, 36]}
+{"num": 15, "playernum": 3, "playername": "沢崎", "hainum": 29, "action": "tumo", "hand": [11, 13, 13, 15, 22, 23, 25, 28, 29, 34, 37, 47, 47, 52]}
+{"num": 16, "playernum": 3, "playername": "沢崎", "hainum": 34, "action": "dahai", "hand": [11, 13, 13, 15, 22, 23, 25, 28, 29, 37, 47, 47, 52]}
+{"num": 17, "playernum": 0, "playername": "黒沢", "hainum": 26, "action": "tumo", "hand": [13, 16, 19, 21, 24, 26, 27, 27, 31, 37, 38, 39, 39, 42]}
+{"num": 18, "playernum": 0, "playername": "黒沢", "hainum": 21, "action": "dahai", "hand": [13, 16, 19, 24, 26, 27, 27, 31, 37, 38, 39, 39, 42]}
+{"num": 19, "playernum": 1, "playername": "丸山", "hainum": 45, "action": "tumo", "hand": [13, 15, 17, 28, 29, 32, 33, 34, 38, 39, 43, 45, 46, 46]}
+{"num": 20, "playernum": 1, "playername": "丸山", "hainum": 43, "action": "dahai", "hand": [13, 15, 17, 28, 29, 32, 33, 34, 38, 39, 45, 46, 46]}
+{"num": 21, "playernum": 2, "playername": "多井", "hainum": 51, "action": "tumo", "hand": [11, 12, 14, 17, 19, 23, 23, 25, 26, 31, 33, 36, 36, 51]}
+{"num": 22, "playernum": 2, "playername": "多井", "hainum": 12, "action": "dahai", "hand": [11, 14, 17, 19, 23, 23, 25, 26, 31, 33, 36, 36, 51]}
+{"num": 23, "playernum": 3, "playername": "沢崎", "hainum": 41, "action": "tumo", "hand": [11, 13, 13, 15, 22, 23, 25, 28, 29, 37, 41, 47, 47, 52]}
+{"num": 24, "playernum": 3, "playername": "沢崎", "hainum": 37, "action": "dahai", "hand": [11, 13, 13, 15, 22, 23, 25, 28, 29, 41, 47, 47, 52]}
+{"num": 25, "playernum": 0, "playername": "黒沢", "hainum": 47, "action": "tumo", "hand": [13, 16, 19, 24, 26, 27, 27, 31, 37, 38, 39, 39, 42, 47]}
+{"num": 26, "playernum": 0, "playername": "黒沢", "hainum": 19, "action": "dahai", "hand": [13, 16, 24, 26, 27, 27, 31, 37, 38, 39, 39, 42, 47]}
+{"num": 27, "playernum": 1, "playername": "丸山", "hainum": 27, "action": "tumo", "hand": [13, 15, 17, 27, 28, 29, 32, 33, 34, 38, 39, 45, 46, 46]}
+{"num": 28, "playernum": 1, "playername": "丸山", "hainum": 45, "action": "dahai", "hand": [13, 15, 17, 27, 28, 29, 32, 33, 34, 38, 39, 46, 46]}
+{"num": 29, "playernum": 2, "playername": "多井", "hainum": 42, "action": "tumo", "hand": [11, 14, 17, 19, 23, 23, 25, 26, 31, 33, 36, 36, 42, 51]}
+{"num": 30, "playernum": 2, "playername": "多井", "hainum": 11, "action": "dahai", "hand": [14, 17, 19, 23, 23, 25, 26, 31, 33, 36, 36, 42, 51]}
+{"num": 31, "playernum": 3, "playername": "沢崎", "hainum": 39, "action": "tumo", "hand": [11, 13, 13, 15, 22, 23, 25, 28, 29, 39, 41, 47, 47, 52]}
+{"num": 32, "playernum": 3, "playername": "沢崎", "hainum": 39, "action": "dahai", "hand": [11, 13, 13, 15, 22, 23, 25, 28, 29, 41, 47, 47, 52]}
+{"num": 33, "playernum": 0, "playername": "黒沢", "hainum": 33, "action": "tumo", "hand": [13, 16, 24, 26, 27, 27, 31, 33, 37, 38, 39, 39, 42, 47]}
+{"num": 34, "playernum": 0, "playername": "黒沢", "hainum": 27, "action": "dahai", "hand": [13, 16, 24, 26, 27, 31, 33, 37, 38, 39, 39, 42, 47]}
+{"num": 35, "playernum": 1, "playername": "丸山", "hainum": 45, "action": "tumo", "hand": [13, 15, 17, 27, 28, 29, 32, 33, 34, 38, 39, 45, 46, 46]}
+{"num": 36, "playernum": 1, "playername": "丸山", "hainum": 45, "action": "dahai_tumogiri", "hand": [13, 15, 17, 27, 28, 29, 32, 33, 34, 38, 39, 46, 46]}
+{"num": 37, "playernum": 2, "playername": "多井", "hainum": 35, "action": "tumo", "hand": [14, 17, 19, 23, 23, 25, 26, 31, 33, 35, 36, 36, 42, 51]}
+{"num": 38, "playernum": 2, "playername": "多井", "hainum": 42, "action": "dahai", "hand": [14, 17, 19, 23, 23, 25, 26, 31, 33, 35, 36, 36, 51]}
+{"num": 39, "playernum": 3, "playername": "沢崎", "hainum": 22, "action": "tumo", "hand": [11, 13, 13, 15, 22, 22, 23, 25, 28, 29, 41, 47, 47, 52]}
+{"num": 40, "playernum": 3, "playername": "沢崎", "hainum": 23, "action": "dahai", "hand": [11, 13, 13, 15, 22, 22, 25, 28, 29, 41, 47, 47, 52]}
+{"num": 41, "playernum": 0, "playername": "黒沢", "hainum": 27, "action": "tumo", "hand": [13, 16, 24, 26, 27, 27, 31, 33, 37, 38, 39, 39, 42, 47]}
+{"num": 42, "playernum": 0, "playername": "黒沢", "hainum": 27, "action": "dahai_tumogiri", "hand": [13, 16, 24, 26, 27, 31, 33, 37, 38, 39, 39, 42, 47]}
+{"num": 43, "playernum": 1, "playername": "丸山", "hainum": 42, "action": "tumo", "hand": [13, 15, 17, 27, 28, 29, 32, 33, 34, 38, 39, 42, 46, 46]}
+{"num": 44, "playernum": 1, "playername": "丸山", "hainum": 42, "action": "dahai_tumogiri", "hand": [13, 15, 17, 27, 28, 29, 32, 33, 34, 38, 39, 46, 46]}
+{"num": 45, "playernum": 2, "playername": "多井", "hainum": 45, "action": "tumo", "hand": [14, 17, 19, 23, 23, 25, 26, 31, 33, 35, 36, 36, 45, 51]}
+{"num": 46, "playernum": 2, "playername": "多井", "hainum": 36, "action": "dahai", "hand": [14, 17, 19, 23, 23, 25, 26, 31, 33, 35, 36, 45, 51]}
+{"num": 47, "playernum": 3, "playername": "沢崎", "hainum": 17, "action": "tumo", "hand": [11, 13, 13, 15, 17, 22, 22, 25, 28, 29, 41, 47, 47, 52]}
+{"num": 48, "playernum": 3, "playername": "沢崎", "hainum": 28, "action": "dahai", "hand": [11, 13, 13, 15, 17, 22, 22, 25, 29, 41, 47, 47, 52]}
+{"num": 49, "playernum": 0, "playername": "黒沢", "hainum": 38, "action": "tumo", "hand": [13, 16, 24, 26, 27, 31, 33, 37, 38, 38, 39, 39, 42, 47]}
+{"num": 50, "playernum": 0, "playername": "黒沢", "hainum": 24, "action": "dahai", "hand": [13, 16, 26, 27, 31, 33, 37, 38, 38, 39, 39, 42, 47]}
+{"num": 51, "playernum": 1, "playername": "丸山", "hainum": 43, "action": "tumo", "hand": [13, 15, 17, 27, 28, 29, 32, 33, 34, 38, 39, 43, 46, 46]}
+{"num": 52, "playernum": 1, "playername": "丸山", "hainum": 43, "action": "dahai_tumogiri", "hand": [13, 15, 17, 27, 28, 29, 32, 33, 34, 38, 39, 46, 46]}
+{"num": 53, "playernum": 2, "playername": "多井", "hainum": 43, "action": "tumo", "hand": [14, 17, 19, 23, 23, 25, 26, 31, 33, 35, 36, 43, 45, 51]}
+{"num": 54, "playernum": 2, "playername": "多井", "hainum": 17, "action": "dahai", "hand": [14, 19, 23, 23, 25, 26, 31, 33, 35, 36, 43, 45, 51]}
+{"num": 55, "playernum": 3, "playername": "沢崎", "hainum": 43, "action": "tumo", "hand": [11, 13, 13, 15, 17, 22, 22, 25, 29, 41, 43, 47, 47, 52]}
+{"num": 56, "playernum": 3, "playername": "沢崎", "hainum": 17, "action": "dahai", "hand": [11, 13, 13, 15, 22, 22, 25, 29, 41, 43, 47, 47, 52]}
+{"num": 57, "playernum": 0, "playername": "黒沢", "hainum": 14, "action": "tumo", "hand": [13, 14, 16, 26, 27, 31, 33, 37, 38, 38, 39, 39, 42, 47]}
+{"num": 58, "playernum": 0, "playername": "黒沢", "hainum": 16, "action": "dahai", "hand": [13, 14, 26, 27, 31, 33, 37, 38, 38, 39, 39, 42, 47]}
+{"num": 59, "playernum": 1, "playername": "丸山", "hainum": 32, "action": "tumo", "hand": [13, 15, 17, 27, 28, 29, 32, 32, 33, 34, 38, 39, 46, 46]}
+{"num": 60, "playernum": 1, "playername": "丸山", "hainum": 32, "action": "dahai_tumogiri", "hand": [13, 15, 17, 27, 28, 29, 32, 33, 34, 38, 39, 46, 46]}
+{"num": 61, "playernum": 2, "playername": "多井", "hainum": 36, "action": "tumo", "hand": [14, 19, 23, 23, 25, 26, 31, 33, 35, 36, 36, 43, 45, 51]}
+{"num": 62, "playernum": 2, "playername": "多井", "hainum": 36, "action": "dahai_tumogiri", "hand": [14, 19, 23, 23, 25, 26, 31, 33, 35, 36, 43, 45, 51]}
+{"num": 63, "playernum": 3, "playername": "沢崎", "hainum": 29, "action": "tumo", "hand": [11, 13, 13, 15, 22, 22, 25, 29, 29, 41, 43, 47, 47, 52]}
+{"num": 64, "playernum": 3, "playername": "沢崎", "hainum": 41, "action": "dahai", "hand": [11, 13, 13, 15, 22, 22, 25, 29, 29, 43, 47, 47, 52]}
+{"num": 65, "playernum": 0, "playername": "黒沢", "hainum": 18, "action": "tumo", "hand": [13, 14, 18, 26, 27, 31, 33, 37, 38, 38, 39, 39, 42, 47]}
+{"num": 66, "playernum": 0, "playername": "黒沢", "hainum": 18, "action": "dahai_tumogiri", "hand": [13, 14, 26, 27, 31, 33, 37, 38, 38, 39, 39, 42, 47]}
+{"num": 67, "playernum": 1, "playername": "丸山", "hainum": 11, "action": "tumo", "hand": [11, 13, 15, 17, 27, 28, 29, 32, 33, 34, 38, 39, 46, 46]}
+{"num": 68, "playernum": 1, "playername": "丸山", "hainum": 15, "action": "dahai", "hand": [11, 13, 17, 27, 28, 29, 32, 33, 34, 38, 39, 46, 46]}
+{"num": 69, "playernum": 2, "playername": "多井", "hainum": 26, "action": "tumo", "hand": [14, 19, 23, 23, 25, 26, 26, 31, 33, 35, 36, 43, 45, 51]}
+{"num": 70, "playernum": 2, "playername": "多井", "hainum": 26, "action": "dahai_tumogiri", "hand": [14, 19, 23, 23, 25, 26, 31, 33, 35, 36, 43, 45, 51]}
+{"num": 71, "playernum": 3, "playername": "沢崎", "hainum": 32, "action": "tumo", "hand": [11, 13, 13, 15, 22, 22, 25, 29, 29, 32, 43, 47, 47, 52]}
+{"num": 72, "playernum": 3, "playername": "沢崎", "hainum": 15, "action": "dahai", "hand": [11, 13, 13, 22, 22, 25, 29, 29, 32, 43, 47, 47, 52]}
+{"num": 73, "playernum": 0, "playername": "黒沢", "hainum": 24, "action": "tumo", "hand": [13, 14, 24, 26, 27, 31, 33, 37, 38, 38, 39, 39, 42, 47]}
+{"num": 74, "playernum": 0, "playername": "黒沢", "hainum": 24, "action": "dahai_tumogiri", "hand": [13, 14, 26, 27, 31, 33, 37, 38, 38, 39, 39, 42, 47]}
+{"num": 75, "playernum": 1, "playername": "丸山", "hainum": 36, "action": "tumo", "hand": [11, 13, 17, 27, 28, 29, 32, 33, 34, 36, 38, 39, 46, 46]}
+{"num": 76, "playernum": 1, "playername": "丸山", "hainum": 17, "action": "dahai", "hand": [11, 13, 27, 28, 29, 32, 33, 34, 36, 38, 39, 46, 46]}
+{"num": 77, "playernum": 2, "playername": "多井", "hainum": 22, "action": "tumo", "hand": [14, 19, 22, 23, 23, 25, 26, 31, 33, 35, 36, 43, 45, 51]}
+{"num": 78, "playernum": 2, "playername": "多井", "hainum": 19, "action": "dahai", "hand": [14, 22, 23, 23, 25, 26, 31, 33, 35, 36, 43, 45, 51]}
+{"num": 79, "playernum": 3, "playername": "沢崎", "hainum": 46, "action": "tumo", "hand": [11, 13, 13, 22, 22, 25, 29, 29, 32, 43, 46, 47, 47, 52]}
+{"num": 80, "playernum": 3, "playername": "沢崎", "hainum": 32, "action": "dahai", "hand": [11, 13, 13, 22, 22, 25, 29, 29, 43, 46, 47, 47, 52]}
+{"num": 81, "playernum": 0, "playername": "黒沢", "hainum": 25, "action": "tumo", "hand": [13, 14, 25, 26, 27, 31, 33, 37, 38, 38, 39, 39, 42, 47]}
+{"num": 82, "playernum": 0, "playername": "黒沢", "hainum": 47, "action": "dahai", "hand": [13, 14, 25, 26, 27, 31, 33, 37, 38, 38, 39, 39, 42]}
+{"num": 83, "playernum": 1, "playername": "丸山", "hainum": 28, "action": "tumo", "hand": [11, 13, 27, 28, 28, 29, 32, 33, 34, 36, 38, 39, 46, 46]}
+{"num": 84, "playernum": 1, "playername": "丸山", "hainum": 36, "action": "dahai", "hand": [11, 13, 27, 28, 28, 29, 32, 33, 34, 38, 39, 46, 46]}
+{"num": 85, "playernum": 2, "playername": "多井", "hainum": 31, "action": "tumo", "hand": [14, 22, 23, 23, 25, 26, 31, 31, 33, 35, 36, 43, 45, 51]}
+{"num": 86, "playernum": 2, "playername": "多井", "hainum": 33, "action": "dahai", "hand": [14, 22, 23, 23, 25, 26, 31, 31, 35, 36, 43, 45, 51]}
+{"num": 87, "playernum": 3, "playername": "沢崎", "hainum": 42, "action": "tumo", "hand": [11, 13, 13, 22, 22, 25, 29, 29, 42, 43, 46, 47, 47, 52]}
+{"num": 88, "playernum": 3, "playername": "沢崎", "hainum": 11, "action": "dahai", "hand": [13, 13, 22, 22, 25, 29, 29, 42, 43, 46, 47, 47, 52]}
+{"num": 89, "playernum": 0, "playername": "黒沢", "hainum": 15, "action": "tumo", "hand": [13, 14, 15, 25, 26, 27, 31, 33, 37, 38, 38, 39, 39, 42]}
+{"num": 90, "playernum": 0, "playername": "黒沢", "hainum": 42, "action": "dahai", "hand": [13, 14, 15, 25, 26, 27, 31, 33, 37, 38, 38, 39, 39]}
+{"num": 91, "playernum": 1, "playername": "丸山", "hainum": 44, "action": "tumo", "hand": [11, 13, 27, 28, 28, 29, 32, 33, 34, 38, 39, 44, 46, 46]}
+{"num": 92, "playernum": 1, "playername": "丸山", "hainum": 44, "action": "dahai_tumogiri", "hand": [11, 13, 27, 28, 28, 29, 32, 33, 34, 38, 39, 46, 46]}
+{"num": 93, "playernum": 2, "playername": "多井", "hainum": 12, "action": "tumo", "hand": [12, 14, 22, 23, 23, 25, 26, 31, 31, 35, 36, 43, 45, 51]}
+{"num": 94, "playernum": 2, "playername": "多井", "hainum": 12, "action": "dahai_tumogiri", "hand": [14, 22, 23, 23, 25, 26, 31, 31, 35, 36, 43, 45, 51]}
+{"num": 95, "playernum": 3, "playername": "沢崎", "hainum": 21, "action": "tumo", "hand": [13, 13, 21, 22, 22, 25, 29, 29, 42, 43, 46, 47, 47, 52]}
+{"num": 96, "playernum": 3, "playername": "沢崎", "hainum": 42, "action": "dahai", "hand": [13, 13, 21, 22, 22, 25, 29, 29, 43, 46, 47, 47, 52]}
+{"num": 97, "playernum": 0, "playername": "黒沢", "hainum": 21, "action": "tumo", "hand": [13, 14, 15, 21, 25, 26, 27, 31, 33, 37, 38, 38, 39, 39]}
+{"num": 98, "playernum": 0, "playername": "黒沢", "hainum": 21, "action": "dahai_tumogiri", "hand": [13, 14, 15, 25, 26, 27, 31, 33, 37, 38, 38, 39, 39]}
+{"num": 99, "playernum": 1, "playername": "丸山", "hainum": 18, "action": "tumo", "hand": [11, 13, 18, 27, 28, 28, 29, 32, 33, 34, 38, 39, 46, 46]}
+{"num": 100, "playernum": 1, "playername": "丸山", "hainum": 18, "action": "dahai_tumogiri", "hand": [11, 13, 27, 28, 28, 29, 32, 33, 34, 38, 39, 46, 46]}
+{"num": 101, "playernum": 2, "playername": "多井", "hainum": 24, "action": "tumo", "hand": [14, 22, 23, 23, 24, 25, 26, 31, 31, 35, 36, 43, 45, 51]}
+{"num": 102, "playernum": 2, "playername": "多井", "hainum": 45, "action": "dahai", "hand": [14, 22, 23, 23, 24, 25, 26, 31, 31, 35, 36, 43, 51]}
+{"num": 103, "playernum": 3, "playername": "沢崎", "hainum": 35, "action": "tumo", "hand": [13, 13, 21, 22, 22, 25, 29, 29, 35, 43, 46, 47, 47, 52]}
+{"num": 104, "playernum": 3, "playername": "沢崎", "hainum": 21, "action": "dahai", "hand": [13, 13, 22, 22, 25, 29, 29, 35, 43, 46, 47, 47, 52]}
+{"num": 105, "playernum": 0, "playername": "黒沢", "hainum": 17, "action": "tumo", "hand": [13, 14, 15, 17, 25, 26, 27, 31, 33, 37, 38, 38, 39, 39]}
+{"num": 106, "playernum": 0, "playername": "黒沢", "hainum": 17, "action": "dahai_tumogiri", "hand": [13, 14, 15, 25, 26, 27, 31, 33, 37, 38, 38, 39, 39]}
+{"num": 107, "playernum": 1, "playername": "丸山", "hainum": 16, "action": "tumo", "hand": [11, 13, 16, 27, 28, 28, 29, 32, 33, 34, 38, 39, 46, 46]}
+{"num": 108, "playernum": 1, "playername": "丸山", "hainum": 28, "action": "dahai", "hand": [11, 13, 16, 27, 28, 29, 32, 33, 34, 38, 39, 46, 46]}
+{"num": 109, "playernum": 2, "playername": "多井", "hainum": 37, "action": "tumo", "hand": [14, 22, 23, 23, 24, 25, 26, 31, 31, 35, 36, 37, 43, 51]}
+{"num": 110, "playernum": 2, "playername": "多井", "hainum": 43, "action": "dahai", "hand": [14, 22, 23, 23, 24, 25, 26, 31, 31, 35, 36, 37, 51]}
+{"num": 111, "playernum": 3, "playername": "沢崎", "hainum": 44, "action": "tumo", "hand": [13, 13, 22, 22, 25, 29, 29, 35, 43, 44, 46, 47, 47, 52]}
+{"num": 112, "playernum": 3, "playername": "沢崎", "hainum": 43, "action": "dahai", "hand": [13, 13, 22, 22, 25, 29, 29, 35, 44, 46, 47, 47, 52]}
+{"num": 113, "playernum": 0, "playername": "黒沢", "hainum": 34, "action": "tumo", "hand": [13, 14, 15, 25, 26, 27, 31, 33, 34, 37, 38, 38, 39, 39]}
+{"num": 114, "playernum": 0, "playername": "黒沢", "hainum": 31, "action": "dahai", "hand": [13, 14, 15, 25, 26, 27, 33, 34, 37, 38, 38, 39, 39]}
+{"num": 115, "playernum": 1, "playername": "丸山", "hainum": 16, "action": "tumo", "hand": [11, 13, 16, 16, 27, 28, 29, 32, 33, 34, 38, 39, 46, 46]}
+{"num": 116, "playernum": 1, "playername": "丸山", "hainum": 46, "action": "dahai", "hand": [11, 13, 16, 16, 27, 28, 29, 32, 33, 34, 38, 39, 46]}
+{"num": 117, "playernum": 2, "playername": "多井", "hainum": 18, "action": "tumo", "hand": [14, 18, 22, 23, 23, 24, 25, 26, 31, 31, 35, 36, 37, 51]}
+{"num": 118, "playernum": 2, "playername": "多井", "hainum": 18, "action": "dahai_tumogiri", "hand": [14, 22, 23, 23, 24, 25, 26, 31, 31, 35, 36, 37, 51]}
+{"num": 119, "playernum": 3, "playername": "沢崎", "hainum": 26, "action": "tumo", "hand": [13, 13, 22, 22, 25, 26, 29, 29, 35, 44, 46, 47, 47, 52]}
+{"num": 120, "playernum": 3, "playername": "沢崎", "hainum": 46, "action": "dahai", "hand": [13, 13, 22, 22, 25, 26, 29, 29, 35, 44, 47, 47, 52]}
+{"num": 121, "playernum": 0, "playername": "黒沢", "hainum": 53, "action": "tumo", "hand": [13, 14, 15, 25, 26, 27, 33, 34, 37, 38, 38, 39, 39, 53]}
+{"num": 122, "playernum": 0, "playername": "黒沢", "hainum": 37, "action": "reach", "hand": [13, 14, 15, 25, 26, 27, 33, 34, 38, 38, 39, 39, 53]}
+{"num": 123, "playernum": 1, "playername": "丸山", "hainum": 37, "action": "chi", "hand": [11, 13, 16, 16, 27, 28, 29, 32, 33, 34, 37, 38, 39, 46]}
+{"num": 124, "playernum": 1, "playername": "丸山", "hainum": 46, "action": "dahai", "hand": [11, 13, 16, 16, 27, 28, 29, 32, 33, 34, 37, 38, 39]}
+{"num": 125, "playernum": 2, "playername": "多井", "hainum": 14, "action": "tumo", "hand": [14, 14, 22, 23, 23, 24, 25, 26, 31, 31, 35, 36, 37, 51]}
+{"num": 126, "playernum": 2, "playername": "多井", "hainum": 31, "action": "dahai", "hand": [14, 14, 22, 23, 23, 24, 25, 26, 31, 35, 36, 37, 51]}
+{"num": 127, "playernum": 3, "playername": "沢崎", "hainum": 47, "action": "tumo", "hand": [13, 13, 22, 22, 25, 26, 29, 29, 35, 44, 47, 47, 47, 52]}
+{"num": 128, "playernum": 3, "playername": "沢崎", "hainum": 47, "action": "dahai_tumogiri", "hand": [13, 13, 22, 22, 25, 26, 29, 29, 35, 44, 47, 47, 52]}
+{"num": 129, "playernum": 0, "playername": "黒沢", "hainum": 12, "action": "tumo", "hand": [12, 13, 14, 15, 25, 26, 27, 33, 34, 38, 38, 39, 39, 53]}
+{"num": 130, "playernum": 0, "playername": "黒沢", "hainum": 12, "action": "dahai_tumogiri", "hand": [13, 14, 15, 25, 26, 27, 33, 34, 38, 38, 39, 39, 53]}
+{"num": 131, "playernum": 1, "playername": "丸山", "hainum": 12, "action": "chi", "hand": [11, 12, 13, 16, 16, 27, 28, 29, 32, 33, 34, 37, 38, 39]}
+{"num": 132, "playernum": 1, "playername": "丸山", "hainum": 16, "action": "dahai", "hand": [11, 12, 13, 16, 27, 28, 29, 32, 33, 34, 37, 38, 39]}
+{"num": 133, "playernum": 2, "playername": "多井", "hainum": 37, "action": "tumo", "hand": [14, 14, 22, 23, 23, 24, 25, 26, 31, 35, 36, 37, 37, 51]}
+{"num": 134, "playernum": 2, "playername": "多井", "hainum": 31, "action": "dahai", "hand": [14, 14, 22, 23, 23, 24, 25, 26, 35, 36, 37, 37, 51]}
+{"num": 135, "playernum": 3, "playername": "沢崎", "hainum": 24, "action": "tumo", "hand": [13, 13, 22, 22, 24, 25, 26, 29, 29, 35, 44, 47, 47, 52]}
+{"num": 136, "playernum": 3, "playername": "沢崎", "hainum": 24, "action": "dahai_tumogiri", "hand": [13, 13, 22, 22, 25, 26, 29, 29, 35, 44, 47, 47, 52]}
+{"num": 137, "playernum": 0, "playername": "黒沢", "hainum": 31, "action": "tumo", "hand": [13, 14, 15, 25, 26, 27, 31, 33, 34, 38, 38, 39, 39, 53]}
+{"num": 138, "playernum": 0, "playername": "黒沢", "hainum": 31, "action": "dahai_tumogiri", "hand": [13, 14, 15, 25, 26, 27, 33, 34, 38, 38, 39, 39, 53]}
+{"num": 139, "playernum": 1, "playername": "丸山", "hainum": 35, "action": "tumo", "hand": [11, 12, 13, 16, 27, 28, 29, 32, 33, 34, 35, 37, 38, 39]}
+{"num": 140, "playernum": 1, "playername": "丸山", "hainum": 16, "action": "dahai", "hand": [11, 12, 13, 27, 28, 29, 32, 33, 34, 35, 37, 38, 39]}
+{"num": 141, "playernum": 2, "playername": "多井", "hainum": 34, "action": "tumo", "hand": [14, 14, 22, 23, 23, 24, 25, 26, 34, 35, 36, 37, 37, 51]}
+{"num": 142, "playernum": 2, "playername": "多井", "hainum": 24, "action": "dahai", "hand": [14, 14, 22, 23, 23, 25, 26, 34, 35, 36, 37, 37, 51]}
+{"num": 143, "playernum": 3, "playername": "沢崎", "hainum": 23, "action": "tumo", "hand": [13, 13, 22, 22, 23, 25, 26, 29, 29, 35, 44, 47, 47, 52]}
+{"num": 144, "playernum": 3, "playername": "沢崎", "hainum": 47, "action": "dahai", "hand": [13, 13, 22, 22, 23, 25, 26, 29, 29, 35, 44, 47, 52]}
